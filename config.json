@@ -1,0 +1,10 @@
+{
+    "Data": {
+        "DefaultConnection": {
+            "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-ConfigDemo-4fa6712f-b4fe-4dbf-974a-fb36ff8fbce1;Trusted_Connection=True;MultipleActiveResultSets=true"
+        }
+    },
+    "Foo": {
+        "Bar" :  "Baz"
+    }
+}
